@@ -39,3 +39,9 @@ VUE_APP_TOKEN_URL = "https://polis-test.metis.io"
 VUE_APP_RETURN_URL ="http://127.0.0.1:8000/#/about?test=1"
 VUE_APP_RETURN_URL2 ="http://127.0.0.1:8000/#/polis-client-test?test=2"
 ```
+
+# Start
+
+```
+npm run serve:test
+```
